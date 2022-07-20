@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39773616849",
+    "project_id": "efichat-62b58",
+    "storage_bucket": "efichat-62b58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39773616849:android:b97202d8a908c1744ee3f0",
+        "android_client_info": {
+          "package_name": "com.example.efichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39773616849-kt17uk3gq7kaqgrl3oogg10jodaklef3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyc09vOrwdDDkZrfE2BC-00Hld9BVTnUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39773616849-kt17uk3gq7kaqgrl3oogg10jodaklef3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
