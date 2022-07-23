@@ -3,9 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ben/AndroidStudioProjects/EfiChat/app/src/main/res/drawable/bg_et_message.xml" value="0.1" />
+        <entry key="..\:/Users/ben/AndroidStudioProjects/EfiChat/app/src/main/res/drawable/bg_receiver.xml" value="0.1" />
+        <entry key="..\:/Users/ben/AndroidStudioProjects/EfiChat/app/src/main/res/drawable/bg_sender.xml" value="0.1" />
+        <entry key="..\:/Users/ben/AndroidStudioProjects/EfiChat/app/src/main/res/layout/activity_chat_detail.xml" value="0.25" />
+        <entry key="..\:/Users/ben/AndroidStudioProjects/EfiChat/app/src/main/res/layout/activity_group_chat.xml" value="0.2033514492753623" />
         <entry key="..\:/Users/ben/AndroidStudioProjects/EfiChat/app/src/main/res/layout/activity_main.xml" value="0.15806159420289856" />
         <entry key="..\:/Users/ben/AndroidStudioProjects/EfiChat/app/src/main/res/layout/activity_signin.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/ben/AndroidStudioProjects/EfiChat/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/ben/AndroidStudioProjects/EfiChat/app/src/main/res/layout/fragment_calls.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/ben/AndroidStudioProjects/EfiChat/app/src/main/res/layout/fragment_chats.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/ben/AndroidStudioProjects/EfiChat/app/src/main/res/layout/fragment_status.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/ben/AndroidStudioProjects/EfiChat/app/src/main/res/layout/sample_receiver.xml" value="0.67" />
+        <entry key="..\:/Users/ben/AndroidStudioProjects/EfiChat/app/src/main/res/layout/sample_sender.xml" value="0.2336842105263158" />
+        <entry key="..\:/Users/ben/AndroidStudioProjects/EfiChat/app/src/main/res/layout/sample_show_user.xml" value="0.203125" />
+        <entry key="..\:/Users/ben/AndroidStudioProjects/EfiChat/app/src/main/res/menu/menu.xml" value="0.1" />
       </map>
     </option>
   </component>
